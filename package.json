@@ -1,0 +1,18 @@
+{
+  "name": "app-neves",
+  "version": "0.0.0",
+  "description": "Webcomponent app-neves following open-wc recommendations",
+  "author": "app-neves",
+  "license": "MIT",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "dependencies": {
+    "lit-element": "^2.4.0",
+    "lit-html": "^1.3.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.8",
+    "es-dev-server": "^2.1.0"
+  }
+}
